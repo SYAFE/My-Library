@@ -1,0 +1,1 @@
+["https://www.samsung.com/in/smartphones/galaxy-s23/buy/"]
