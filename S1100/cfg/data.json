@@ -1,0 +1,52 @@
+{
+  "target": [
+    {
+      "url": "https://www.samsung.com/uk/tvs/all-tvs/",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.lg.com/uk/oled-tvs",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.samsung.com/uk/tvs/qled-tv/highlights/",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.lg.com/uk/oled-tvs/2021/self-lit-pixels",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.samsung.com/uk/tvs/qled-tv/qn900b-65-inch-neo-qled-8k-smart-tv-qe65qn900btxxu/",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.lg.com/uk/tvs/lg-oled55g16la",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.samsung.com/uk/refrigerators/all-refrigerators/",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.lg.com/uk/fridge-freezers",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.samsung.com/uk/refrigerators/bespoke-refrigerator/",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.lg.com/uk/instaview-door-in-door-fridge-freezers",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.samsung.com/uk/refrigerators/bottom-mount-freezer/308l-metal-graphite-rb31fdrndsa-eu/",
+      "flag": "0"
+    },
+    {
+      "url": "https://www.lg.com/uk/fridge-freezers/lg-gsxv91bsae",
+      "flag": "0"
+    }
+  ]
+}

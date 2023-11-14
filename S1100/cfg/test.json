@@ -1,0 +1,733 @@
+{
+  "target": [
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01040000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01050000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01010000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01030000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris"
+,
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03010000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris"
+,
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=03020000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07050000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07010000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07020000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=08110000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=09010000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=my&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=id&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=th&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=ca&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=ca_fr&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=it&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=es&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=vn&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=at&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=fi&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=no&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=dk&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    },
+    {
+      "url": "https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=se&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris",
+      "flag": "0"
+    }
+  ]}
